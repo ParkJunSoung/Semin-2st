@@ -1,2 +1,2 @@
 # 아이유
-<img src="HwangHyeJung.jpg" width="200">
+<img src="./HwangHyeJung.jpg" width="200">
